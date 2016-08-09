@@ -10,7 +10,7 @@ Dockerfile은 Docker 컨테이너의 기반이되는 Docker 이미지 구성정�
  
 Usage
 ------
-    $ docker pull asashiho/dockersample
+    $ docker pull ewshin/dockersample1
 
 
 ### Docker 공식 사이트  
